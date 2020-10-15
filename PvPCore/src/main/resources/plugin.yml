@@ -1,0 +1,9 @@
+name: PvPCore
+main: me.Lazinq.PvPCore.PvP
+author: Lazinq
+version: 1.0
+api-version: 1.16
+
+commands:
+  team:
+  arena:
